@@ -1,0 +1,2 @@
+La version de windows no puede ejecutarse por problemas con la tarjeta gráfica. Pero dado el tipo de juego no debe dar ningun problema por la tarjeta gráfica. Corrigelo
+Ejecutar
