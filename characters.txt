@@ -1,0 +1,81 @@
+# Personajes de Memorias del Vacío / Characters of Memories of the Void
+
+## Protagonista / Protagonist
+**Nombre**: Desconocido (El Jugador)
+**Descripción**: Un investigador que despierta sin memoria en la estación Europa. Lleva un traje espacial dañado y solo tiene una nota ensangrentada como pista de su pasado.
+
+**Name**: Unknown (The Player)
+**Description**: A researcher who awakens with no memory at Europa Station. Wears a damaged space suit and only has a blood-stained note as a clue to their past.
+
+## Dr. Sarah Chen
+**Rol**: Científica Principal / Lead Scientist
+**Estado**: Desaparecida / Missing
+**Descripción**: Líder del equipo de investigación en Europa. Sus grabaciones de audio revelan que descubrió señales extrañas desde el núcleo de la luna. Su última grabación es una advertencia desesperada sobre la antena.
+
+**Role**: Lead Scientist
+**Status**: Missing
+**Description**: Leader of the research team on Europa. Her audio logs reveal she discovered strange signals from the moon's core. Her last recording is a desperate warning about the antenna.
+
+## Ingeniero Marcus Webb
+**Rol**: Ingeniero de Sistemas / Systems Engineer
+**Estado**: Desaparecido / Missing
+**Descripción**: Responsable de la construcción y mantenimiento de la antena de comunicación. Sus grabaciones muestran preocupación por el comportamiento extraño del equipo después de recibir las transmisiones.
+
+**Role**: Systems Engineer
+**Status**: Missing
+**Description**: Responsible for building and maintaining the communication antenna. His recordings show concern about the team's strange behavior after receiving the transmissions.
+
+## "Ellos" / "They"
+**Naturaleza**: Entidades Desconocidas / Unknown Entities
+**Descripción**: Presencias misteriosas que se comunican a través de señales desde el núcleo de Europa. Parecen tener la capacidad de influir en las mentes humanas y se activan cuando se enciende la antena de comunicación.
+
+**Nature**: Unknown Entities
+**Description**: Mysterious presences that communicate through signals from Europa's core. They seem to have the ability to influence human minds and are activated when the communication antenna is powered up.
+
+## Equipo de Investigación Perdido / Lost Research Team
+**Dr. Elena Vasquez** - Geóloga / Geologist
+**James Morrison** - Técnico de Comunicaciones / Communications Technician  
+**Dr. Yuki Tanaka** - Psicólogo / Psychologist
+**Alex Rivera** - Piloto / Pilot
+
+Todos desaparecidos en circunstancias misteriosas. Sus pertenencias personales y notas dispersas por la estación sugieren que algo terrible ocurrió antes de que el protagonista despertara.
+
+All missing under mysterious circumstances. Their personal belongings and notes scattered throughout the station suggest something terrible happened before the protagonist awakened.
+
+## Voces en las Sombras / Voices in the Shadows
+**Descripción**: Susurros y voces distorsionadas que el protagonista escucha ocasionalmente. No está claro si son alucinaciones, grabaciones dañadas, o algo más siniestro.
+
+**Description**: Whispers and distorted voices that the protagonist occasionally hears. It's unclear whether they are hallucinations, damaged recordings, or something more sinister.
+
+---
+
+## Relaciones y Misterios / Relationships and Mysteries
+
+### El Protagonista y Dr. Chen
+Las grabaciones sugieren que el protagonista podría haber trabajado con Dr. Chen. ¿Por qué no puede recordar? ¿Qué pasó en sus últimos días juntos?
+
+The recordings suggest the protagonist might have worked with Dr. Chen. Why can't they remember? What happened in their final days together?
+
+### La Conexión con "Ellos"
+¿Por qué el protagonista despertó cuando todos los demás desaparecieron? ¿Hay algo especial sobre su mente que lo protege de la influencia de las entidades?
+
+Why did the protagonist wake up when everyone else disappeared? Is there something special about their mind that protects them from the entities' influence?
+
+### El Propósito de la Estación
+Europa Station no era solo un puesto de investigación. Los documentos fragmentados sugieren un proyecto clasificado relacionado con comunicación interestelar.
+
+Europa Station wasn't just a research outpost. Fragmented documents suggest a classified project related to interstellar communication.
+
+---
+
+*Los secretos de estos personajes se revelarán a medida que el jugador progrese a través de los capítulos del juego.*
+
+*The secrets of these characters will be revealed as the player progresses through the game's chapters.*
+
+🧾 5. Personajes ambientales (logs/grabaciones)
+Estos personajes no aparecen físicamente pero se mencionan en logs o en grabaciones que se pueden usar en escenas futuras o como voces en off. Puedes usar solo un retrato borroso para representar sus memorias.
+
+Nombre	Rol	Sugerencia de retrato
+Dra. Vega	Ingeniera jefe	Silueta femenina con gafas, retrato borroso en consola
+Teniente Aran	Jefe de seguridad	Casco militar, mirada seria, imagen en blanco y negro
+Técnico Lau	Reparaciones técnicas	Voz temblorosa, retrato medio visible

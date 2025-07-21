@@ -1,0 +1,233 @@
+# Capítulo 1: Ecos de la Ausencia / Chapter 1: Echoes of Absence
+
+## Diálogos Iniciales / Initial Dialogs
+
+### Español
+DESPERTAR_1: "¿Dónde... dónde estoy?"
+DESPERTAR_2: "Mi cabeza... no puedo recordar nada."
+DESPERTAR_3: "Esta nota en mi bolsillo... 'No enciendas la antena. Ellos escuchan.' ¿Qué significa?"
+
+EXPLORAR_1: "Este lugar está helado. Las luces de emergencia apenas funcionan."
+EXPLORAR_2: "Hay algo inquietante en este silencio."
+EXPLORAR_3: "Siento como si algo me observara desde las sombras."
+
+PUERTA_CERRADA: "La puerta está sellada. Necesito encontrar una forma de restaurar la energía."
+PANEL_DAÑADO: "Este panel está completamente destrozado. Hay cables por todas partes."
+TERMINAL_AUDIO: "Un terminal de audio... tal vez tenga respuestas."
+
+GRABACION_1: "Dr. Sarah Chen, día 47. Hemos detectado señales extrañas desde el núcleo de Europa. No son naturales."
+GRABACION_2: "Ingeniero Marcus Webb. La antena principal está lista, pero algo no está bien. Los otros actúan extraño."
+GRABACION_3: "¡Dr. Chen de nuevo! ¡No! ¡No enciendas la antena! Ellos están en nuestras mentes..."
+
+ENERGIA_RESTAURADA: "La energía está parcialmente restaurada, pero..."
+SISTEMA_ACTIVADO: "¿Qué es eso en la pantalla? ¡Esa forma no es humana!"
+SUSURRO_FINAL: "Ya sabemos que estás aquí..."
+
+### English
+AWAKENING_1: "Where... where am I?"
+AWAKENING_2: "My head... I can't remember anything."
+AWAKENING_3: "This note in my pocket... 'Don't power up the antenna. They listen.' What does it mean?"
+
+EXPLORE_1: "This place is freezing. The emergency lights barely work."
+EXPLORE_2: "There's something unsettling about this silence."
+EXPLORE_3: "I feel like something is watching me from the shadows."
+
+DOOR_LOCKED: "The door is sealed. I need to find a way to restore power."
+PANEL_DAMAGED: "This panel is completely destroyed. There are cables everywhere."
+AUDIO_TERMINAL: "An audio terminal... maybe it has answers."
+
+RECORDING_1: "Dr. Sarah Chen, day 47. We've detected strange signals from Europa's core. They're not natural."
+RECORDING_2: "Engineer Marcus Webb. The main antenna is ready, but something's wrong. The others are acting strange."
+RECORDING_3: "Dr. Chen again! No! Don't power up the antenna! They're in our minds..."
+
+POWER_RESTORED: "Power is partially restored, but..."
+SYSTEM_ACTIVATED: "What is that on the screen? That shape isn't human!"
+FINAL_WHISPER: "We know you're here now..."
+
+## Objetos del Inventario / Inventory Items
+
+### Español
+CABLE_REPARACION: "Cable de reparación - Útil para conectar sistemas eléctricos"
+HERRAMIENTA_MULTIFUNCION: "Herramienta multifunción - Puede reparar paneles dañados"
+TARJETA_ACCESO: "Tarjeta de acceso - Permite abrir puertas cerradas"
+CELDA_ENERGIA: "Celda de energía - Fuente de poder portátil"
+
+### English
+REPAIR_CABLE: "Repair cable - Useful for connecting electrical systems"
+MULTIFUNCTION_TOOL: "Multifunction tool - Can repair damaged panels"
+ACCESS_CARD: "Access card - Allows opening locked doors"
+POWER_CELL: "Power cell - Portable power source"
+
+## Puzzles y Soluciones / Puzzles and Solutions
+
+PUZZLE_ENERGIA: "Conecta los cables en el orden correcto: Rojo -> Azul -> Verde"
+PUZZLE_PANEL: "Usa la herramienta multifunción en el panel dañado"
+PUZZLE_CODIGO: "El código de acceso está en la grabación 2: 4729"
+PUZZLE_SECUENCIA: "Activa los sistemas en orden: Generador -> Luces -> Puertas (¡NO la antena!)"
+
+## Estados del Juego / Game States
+
+TUTORIAL_COMPLETADO: "Tutorial completado. El verdadero horror comienza ahora..."
+CAPITULO_1_COMPLETADO: "Capítulo 1 completado. Continuará..."
+GAME_OVER_ANTENA: "Activaste la antena... Ellos vienen. GAME OVER"
+SAVE_GAME: "Partida guardada en Europa Station - Capítulo 1"🎮 Capítulo 1: Ecos de la Ausencia – Tutorial Jugable Completo
+Título alternativo en inglés: Chapter 1: Echoes of Absence – Interactive Tutorial
+
+🧭 Resumen General
+Elemento	Detalle
+Duración estimada	20–25 minutos.
+Objetivo narrativo	Guiar al jugador mientras reconstruye su identidad y aprende las mecánicas básicas.
+Tutorial progresivo	Movimiento, inspección de objetos, uso de inventario, resolución de puzzles, diálogos.
+Mecánicas enseñadas	Point & click, combinaciones, decisiones de diálogo, manejo de energía, lectura de registros.
+
+🗺️ Escenario General
+Localización: Estación Científica Helios-9
+Una estación abandonada y parcialmente congelada en la órbita de un planeta muerto. Módulos activables por energía limitada. IA defectuosa, recuerdos fragmentados, presencias incorpóreas.
+
+📚 ESTRUCTURA POR SECCIÓN
+🎬 SECCIÓN 1: Despertar Criogénico
+Objetivo del tutorial: Aprender a mirar alrededor y recoger objetos.
+
+Narrativa:
+El jugador se despierta en una cápsula criogénica. Todo está oscuro salvo por luces rojas de emergencia.
+
+Mensaje en pantalla:
+Haz clic para mirar alrededor...
+
+Acciones:
+Clic en el cristal → "La condensación te impide ver. ¿Limpiar?".
+
+Clic en taquilla → recoge nota manchada de sangre.
+
+Clic en estante → obtiene tarjeta de acceso rota.
+
+Texto de tutorial:
+"Has recogido un objeto. Pulsa [I] para abrir tu inventario."
+
+"Algunos objetos pueden combinarse entre sí. Arrástralos uno sobre otro para probarlo."
+
+🧩 SECCIÓN 2: Zona Técnica Inferior
+Objetivo del tutorial: Enseñar combinaciones y desbloqueo de puertas.
+
+Narrativa:
+Un pasillo con tuberías congeladas y una puerta cerrada electrónicamente. Una consola brilla tenuemente.
+
+Puzzle:
+Encuentra cinta adhesiva en un cajón oxidado.
+
+Combina con tarjeta rota → tarjeta funcional.
+
+Usa tarjeta en panel → abre puerta.
+
+Tutorial contextual:
+"Has combinado dos objetos. Úsalos en dispositivos haciendo clic sobre ellos en el inventario y luego en el objetivo."
+
+🗃️ SECCIÓN 3: Sala de Mantenimiento
+Objetivo del tutorial: Aprender a leer logs, interactuar con entornos complejos.
+
+Acciones:
+Consola principal muestra logs:
+
+“Error de comunicación. Reintentar conexión con IA…”
+
+“Transferencia de energía manual requerida.”
+
+Clic en generador → necesita célula de energía.
+
+Recoges pila descargada en caja fuerte → combinar con estación de carga.
+
+Tutorial:
+"Algunos objetos requieren activación antes de ser útiles. Busca cómo recargarlos."
+
+🧠 SECCIÓN 4: Primer Contacto (IA y Voces)
+Objetivo del tutorial: Introducir los diálogos interactivos.
+
+Narrativa:
+Una vez restaurada la energía básica, la IA se activa brevemente.
+
+Diálogo ejemplo (ES/EN):
+
+json
+Copiar
+Editar
+[
+  {
+    "character": "IA-Helios",
+    "text_es": "¿Quién eres tú?... ¿Eres el Dr. Rivas?",
+    "text_en": "Who are you?... Are you Dr. Rivas?",
+    "responses": [
+      {
+        "text_es": "No lo sé.",
+        "text_en": "I don't know.",
+        "next": 1
+      },
+      {
+        "text_es": "Sí. Ayúdame.",
+        "text_en": "Yes. Help me.",
+        "next": 2
+      }
+    ]
+  },
+  {
+    "character": "IA-Helios",
+    "text_es": "Tu identidad ha sido borrada por protocolo.",
+    "text_en": "Your identity was wiped by protocol.",
+    "responses": []
+  },
+  {
+    "character": "IA-Helios",
+    "text_es": "Error. Voces detectadas. No estás solo.",
+    "text_en": "Error. Voices detected. You are not alone.",
+    "responses": []
+  }
+]
+🎒 SECCIÓN 5: Introducción al Inventario Activo
+Objetivo del tutorial: Mostrar objetos combinables y manipulables.
+
+Se activa un panel con un puzzle de símbolos alienígenas.
+
+Necesitas usar un escáner roto y combinarlo con una lente para ver los símbolos ocultos.
+
+🔌 SECCIÓN 6: El Dilema de la Antena
+Objetivo del tutorial: Introducir decisiones con consecuencias.
+
+Escenario:
+Al restaurar la energía, la consola muestra un botón: “ACTIVAR ANTENA”.
+
+Si el jugador lo activa: comienza a escuchar susurros persistentes, pantalla distorsionada.
+
+Si lo ignora, puede seguir explorando hacia el Módulo Médico.
+
+Tutorial contextual:
+"Tus decisiones afectan la historia. Algunas acciones activan eventos que no pueden revertirse."
+
+💡 SECCIÓN 7: Final del Tutorial
+El jugador accede al Módulo Médico, donde se encuentra el primer cadáver. Al tocarlo:
+
+Aparece una visión: flashback del científico hablando con “una sombra”.
+
+Voz final susurra:
+
+ES: “Ahora sabes caminar… pero no sabes a dónde vas.”
+EN: “You now know how to walk… but not where to go.”
+
+Texto en pantalla:
+
+Capítulo 2 desbloqueado. Has sobrevivido al tutorial.
+
+🧩 Elementos aprendidos en este capítulo
+Moverse por la escena con ratón (point-and-click).
+
+Usar y combinar objetos del inventario.
+
+Usar interfaces contextuales (paneles, consolas).
+
+Participar en diálogos interactivos con ramificación.
+
+Tomar decisiones con consecuencias.
+
+Observar el entorno para pistas ocultas.
+
+Cargar objetos (energía, escáner).
+
+Activar/desactivar funciones (antena).

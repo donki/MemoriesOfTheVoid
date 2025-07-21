@@ -1,0 +1,12 @@
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\bin\Debug\net8.0\MemoriesOfTheVoid.Core.deps.json
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\bin\Debug\net8.0\MemoriesOfTheVoid.Core.dll
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\bin\Debug\net8.0\MemoriesOfTheVoid.Core.pdb
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\obj\Debug\net8.0\MemoriesOfTheVoid.Core.csproj.AssemblyReference.cache
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\obj\Debug\net8.0\MemoriesOfTheVoid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\obj\Debug\net8.0\MemoriesOfTheVoid.Core.AssemblyInfoInputs.cache
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\obj\Debug\net8.0\MemoriesOfTheVoid.Core.AssemblyInfo.cs
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\obj\Debug\net8.0\MemoriesOfTheVoid.Core.csproj.CoreCompileInputs.cache
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\obj\Debug\net8.0\MemoriesOfTheVoid.Core.dll
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\obj\Debug\net8.0\refint\MemoriesOfTheVoid.Core.dll
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\obj\Debug\net8.0\MemoriesOfTheVoid.Core.pdb
+C:\ID\OneDrive\MemoriesOfTheVoid\Core\obj\Debug\net8.0\ref\MemoriesOfTheVoid.Core.dll
